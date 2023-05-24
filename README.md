@@ -1,6 +1,6 @@
 # MemeShare
 
-![MemeShare]( )
+<img src="https://github.com/Ankitsh-rtx/MemeShare/blob/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" alt="MemeShare" width="120"/>
 
 MemeShare Android is a mobile application that allows users to browse and share memes from the internet using the Meme API.
 
