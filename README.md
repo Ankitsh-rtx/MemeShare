@@ -1,6 +1,6 @@
 # MemeShare
 
-![MemeShare]()
+![MemeShare]( )
 
 MemeShare Android is a mobile application that allows users to browse and share memes from the internet using the Meme API.
 
