@@ -12,9 +12,8 @@ MemeShare Android is a mobile application that allows users to browse and share 
 
 ## Screenshots
 
-![Screenshot 1](https://your-project-url.com/images/screenshot_1.png)
-![Screenshot 2](https://your-project-url.com/images/screenshot_2.png)
-![Screenshot 3](https://your-project-url.com/images/screenshot_3.png)
+<img src="https://your-project-url.com/images/screenshot_1.png" alt="Screenshot 1" width="250"/>
+<img src="https://your-project-url.com/images/screenshot_1.png" alt="Screenshot 2" width="250"/>
 
 ## Installation
 
