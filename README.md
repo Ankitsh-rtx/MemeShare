@@ -11,9 +11,10 @@ MemeShare Android is a mobile application that allows users to browse and share 
 - Get the latest trending memes in real-time
 
 ## Screenshots
-
-<img src="https://your-project-url.com/images/screenshot_1.png" alt="Screenshot 1" width="250"/>
-<img src="https://your-project-url.com/images/screenshot_1.png" alt="Screenshot 2" width="250"/>
+<p float="left">
+  <img src="Screenshot_20230524-182327.png" alt="Light Theme" width="250" style="margin-right: 80px"/>
+  <img src="Screenshot_20230524-182315.png" alt="Dark Theme" width="250" style="margin-right: 80px"/>
+</p>
 
 ## Installation
 
