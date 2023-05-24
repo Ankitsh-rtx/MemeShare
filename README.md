@@ -18,7 +18,7 @@ MemeShare Android is a mobile application that allows users to browse and share 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/Ankitsh-rtx/MemeShare-android.git`
+1. Clone the repository: `git clone https://github.com/Ankitsh-rtx/MemeShare.git`
 2. Open the project in Android Studio.
 3. Build and run the project on an Android emulator or device.
 
